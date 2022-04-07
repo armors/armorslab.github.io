@@ -1,0 +1,9 @@
+.idea
+/goadmin/.idea
+/goadmin/logs*
+/goadmin/uploads/*
+/goadmin/vendor
+/goapi/.idea
+/goapi/vendor
+/static/.idea
+.DS_Store
